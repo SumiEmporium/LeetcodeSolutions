@@ -1,6 +1,6 @@
 fun main() {
 
-  //  isPalindrome(-121)
+    isPalindrome(-121)
 
     isPalindromeStr("ABC")
 }
